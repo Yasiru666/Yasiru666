@@ -12,6 +12,8 @@
 - 🔭 I’m the owner of **My Life Style**, a platform where I share my thoughts and experiences.
 - 🌱 I’m currently learning web app development, as well as Machine Learning and Deep Learning.
 - 👯 I’m looking to collaborate on Open Source Projects to contribute to the community.
+- 📫 You can reach me at yasirubhashana@gmail.com.
+
 
 
 💰 Support Me
