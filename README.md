@@ -3,12 +3,7 @@
 </p>
 
 
-<p align="center"><a href="#"><img width="50%" height="50%" src="https://i.imgur.com/oFZylZt.png" /></a></p>
-
-
-
-
-
+<p align="center"><a href="#"><img width="25%" height="25%" src="https://i.imgur.com/oFZylZt.png" /></a></p>
 
 
 
@@ -29,8 +24,10 @@
 <p>💰 Support Me</p>
 <a href="https://t.me/YasiruB" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
 
-</b>
-🚀 Languages and Tools
+</br>
+</br>
+
+<p>🚀 Languages and Tools</p>
 <!-- List of icons - https://icons8.com/ -->
 <p align="left"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
