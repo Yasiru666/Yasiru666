@@ -2,7 +2,17 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=YASIRU+BHASHANA&font=Fira%20Code&center=true&width=380&height=50">
 </p>
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<p align="center"><a href="#"><img width="50%" height="50%" src="https://i.imgur.com/oFZylZt.png" /></a></p>
+
+
+
+
+
+
+
+
+  
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="30px" alt="Hey"></b>, I'm YASIRU BHASHANA</h1>
 <h3 align="center">I am a Web App Development and Deep Learning Enthusiast</h3>
@@ -14,11 +24,12 @@
 - 👯 I’m looking to collaborate on Open Source Projects to contribute to the community.
 - 📫 You can reach me at yasirubhashana@gmail.com.
 
+</br>
 
-
-💰 Support Me
+<p>💰 Support Me</p>
 <a href="https://t.me/YasiruB" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
 
+</b>
 🚀 Languages and Tools
 <!-- List of icons - https://icons8.com/ -->
 <p align="left"> 
