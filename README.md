@@ -17,7 +17,7 @@
 
 
 💰 Support Me
-<a href="https://t.me/Yasiru_Bhashana" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
+<a href="https://t.me/YasiruB" target="_blank"><img height="40" src="https://az743702.vo.msecnd.net/cdn/kofi3.png"/></a>
 
 🚀 Languages and Tools
 <!-- List of icons - https://icons8.com/ -->
