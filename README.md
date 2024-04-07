@@ -43,6 +43,11 @@
     <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/docker.png"/> </a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
 </p>
+
+
+<p align="center"><a href="#"><img width="45%" height="45%" src="https://i.imgur.com/Q9f7bPg.gif" /></a></p>
+
+
 <!-- Feel free to add more sections like My GitHub Stats, Connect with Me, etc. -->
 
 
