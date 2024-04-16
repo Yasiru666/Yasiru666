@@ -45,10 +45,51 @@
 </p>
 
 
+<p> </p>
+<!-- GitHub Stats -->
+<p align="center">
+<a href="#">
+  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=Yasiru666&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
+</a>
+</p>
+<!-- Test-->
+<!-- Top Languages
+<a href="#">
+  <img height=150 align="center"  src="https://my-stats-43gk.vercel.app/api/top-langs/?username=Yasiru666&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
+</a>
+--> 
+
+
+
+
+
+
+
+
+
+<p> </p>
+<!-- Visitor Count -->
+<p align="center">
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Yasiru666/count.svg" />
+</p>
+</br>
+</br>
+
+<!--people img -->
 <p align="center"><a href="#"><img width="45%" height="45%" src="https://i.imgur.com/Q9f7bPg.gif" /></a></p>
 
 
 <!-- Feel free to add more sections like My GitHub Stats, Connect with Me, etc. -->
+
+
+
+<!-- Contributions 
+<a href="#">
+  <img src="contributions.svg">
+</a>
+-->
+
 
 
 <!---
