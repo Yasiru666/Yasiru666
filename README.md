@@ -88,8 +88,9 @@ Let’s connect and collaborate! 🚀
 </br>
 
 <!--people img -->
-<p align="center"><a href="#"><img width="45%" height="45%" src="https://i.imgur.com/Q9f7bPg.gif" /></a></p>
+<!-- <p align="center"><a href="#"><img width="45%" height="45%" src="https://i.imgur.com/Q9f7bPg.gif" /></a></p> -->
 
+<p align="center"><a href="#"><img width="45%" height="45%" src="https://i.imgur.com/4iq07Fj.gif" /></a></p>
 
 <!-- Feel free to add more sections like My GitHub Stats, Connect with Me, etc. -->
 
