@@ -26,8 +26,8 @@ Tools & Platforms: Git, Docker, AWS </br></br>
 <b>Notable Projects</b> </br>
 Monthly Bill Prediction: A machine learning project for predicting monthly electricity bills based on various factors. </br></br>
 <b>Contact </b></br>
-Email: yasirubhashana@gmail.com </br>
-LinkedIn: https://www.linkedin.com/in/yasirubhashana/  </br>
+Email:</br> yasirubhashana@gmail.com </br>
+LinkedIn:</br> https://www.linkedin.com/in/yasirubhashana/  </br>
 Let’s connect and collaborate! 🚀
 
 </br>
