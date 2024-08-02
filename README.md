@@ -14,10 +14,21 @@
 
 ## About Me
 
-- 🔭 I’m the owner of **My Life Style**, a platform where I share my thoughts and experiences.
-- 🌱 I’m currently learning web app development, as well as Machine Learning and Deep Learning.
-- 👯 I’m looking to collaborate on Open Source Projects to contribute to the community.
-- 📫 You can reach me at yasirubhashana@gmail.com.
+Hi, I'm Yasiru! 👋
+
+I'm a passionate University student specializing in machine learning and deep learning. I aim to make a significant impact in the tech world through innovative projects and research. Proficient in Python, TensorFlow, and Flask, I’m constantly exploring new technologies and methodologies to enhance my skills.
+
+<b>Skills & Technologies </b> </br>
+Programming Languages: Python, JavaScript </br>
+Machine Learning: TensorFlow, Scikit-learn </br>
+Web Development: Flask, HTML/CSS </br>
+Tools & Platforms: Git, Docker, AWS </br></br>
+<b>Notable Projects</b> </br>
+Monthly Bill Prediction: A machine learning project for predicting monthly electricity bills based on various factors. </br></br>
+<b>Contact </b></br>
+Email: yasirubhashana@gmail.com </br>
+LinkedIn: https://www.linkedin.com/in/yasirubhashana/  </br>
+Let’s connect and collaborate! 🚀
 
 </br>
 
