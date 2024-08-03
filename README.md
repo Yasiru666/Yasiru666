@@ -14,7 +14,7 @@
 
 ## About Me
 
-Hi, I'm Yasiru! 👋
+
 
 I'm a passionate University student specializing in machine learning and deep learning. I aim to make a significant impact in the tech world through innovative projects and research. Proficient in Python, TensorFlow, and Flask, I’m constantly exploring new technologies and methodologies to enhance my skills.
 
